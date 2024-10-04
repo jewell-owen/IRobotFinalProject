@@ -1,1 +1,4 @@
 *.bas linguist-detectable=false
+*.pbi linguist-detectable=false
+*.pbf linguist-detectable=false
+*.pb linguist-detectable=false
